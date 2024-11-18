@@ -63,6 +63,7 @@ npm start
 
 ### Notes:
 
+- Live link - [https://readmybooknitsrinagar.netlify.app/](https://readmybooknitsrinagar.netlify.app/)
 - Replace `"your-netlify-app-link"` and `"your-render-api-link"` with your actual deployed URLs for frontend and backend.
 - Ensure your MongoDB Atlas connection string and JWT secret are correctly set in the `.env` file for the backend.
 - The README includes steps to clone, set up, and run the project locally along with the required environment configurations.
